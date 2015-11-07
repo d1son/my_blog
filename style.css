@@ -18,7 +18,6 @@ body {
 #header {
 	background-color: #706B6B;
 	width:100%;
-	width: 100%;
 	margin-bottom: 10px;
 }
 
@@ -26,11 +25,11 @@ body {
 	text-align: center;
 	color: white;
 	font-size: 45px;
-	font-size: 45px;
 	margin: 10px 0px 0px 10px;
 }
 
 .post {
+	position: relative;
 	width: 75%;
 	text-align: justify;
 	background-color: #706B6B;
